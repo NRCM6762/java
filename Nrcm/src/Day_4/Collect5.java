@@ -1,0 +1,14 @@
+package Day_4;
+import java.util.*;
+public class Collect5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        Stack<Integer> s1=new Stack<Integer>();
+        s1.push(56);
+        s1.push(89);
+        s1.push(90);
+        System.out.println(s1);
+	}
+
+}
